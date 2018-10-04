@@ -1,0 +1,85 @@
+body {
+    background-image: url("background.jpg");
+}
+
+
+#image {
+   display: inline;
+    border: 5px black ridge;
+    position: absolute;
+    margin-left: 25px;
+}
+
+.premier {
+    display: inline;
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 250px;
+    border-bottom: 3px blue double;
+}
+
+.second {
+    display: inline;
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 390px;
+    border-bottom: 3px blue double;
+}
+
+.texte {
+    position: absolute;
+    margin-left: 250px;
+    margin-top: 170px;
+    border: 3px black inset;
+}
+
+.listelivre {
+    position: absolute;
+    margin-top: 350px;
+    padding-right: 25px;
+    border: 3px black ridge;
+}
+
+.listefilm {
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 450px;
+    padding-right: 25px;
+    border: 3px black ridge;
+}
+
+.listesport {
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 800px;
+    padding-right: 25px;
+    border: 3px black ridge;
+}
+
+#reseaux {
+    position: absolute;
+    margin-top: 450px;
+}
+
+#presentation1 {
+    font-size: 30px;
+    font-family: "Arial Black"
+}
+
+#presentation2 {
+    font-size: 20px;
+    font-family: Verdana;
+}
+
+#description {
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.reseaux {
+    display: block;
+    border: 3px black ridge;
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 400px;
+}
