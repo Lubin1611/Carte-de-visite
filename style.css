@@ -6,8 +6,8 @@ body {
 }
 
 #global {
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #image {
