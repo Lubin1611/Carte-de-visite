@@ -5,6 +5,10 @@ body {
     color: #82211e;
 }
 
+#global {
+    margin-left: 20px;
+    margin-right: 20px;
+}
 
 #image {
    display: inline;
@@ -76,7 +80,7 @@ body {
      border: 3px black ridge;
      position: absolute;
      margin-top: 600px;
-     margin-left: 640px;
+     margin-left: 615px;
  }
 
 h1 {
