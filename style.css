@@ -1,5 +1,8 @@
 body {
-    background-image: url("background.jpg");
+    background-color: greenyellow;
+    font-family: "Arial Black", sans-serif;
+    font-size: 15px;
+    color: #82211e;
 }
 
 
@@ -21,45 +24,41 @@ body {
 .second {
     display: inline;
     position: absolute;
-    margin-top: 90px;
-    margin-left: 390px;
+    margin-top: 170px;
+    margin-left: 550px;
     border-bottom: 3px blue double;
 }
 
 .texte {
     position: absolute;
-    margin-left: 250px;
-    margin-top: 170px;
+    margin-left: 420px;
+    margin-top: 300px;
     border: 3px black inset;
 }
 
 .listelivre {
     position: absolute;
-    margin-top: 350px;
+    margin-top: 465px;
     padding-right: 25px;
     border: 3px black ridge;
 }
 
 .listefilm {
     position: absolute;
-    margin-top: 350px;
-    margin-left: 450px;
+    margin-top: 465px;
+    margin-left: 715px;
     padding-right: 25px;
     border: 3px black ridge;
 }
 
 .listesport {
     position: absolute;
-    margin-top: 350px;
-    margin-left: 800px;
+    margin-top: 465px;
+    margin-left: 1350px;
     padding-right: 25px;
     border: 3px black ridge;
 }
 
-#reseaux {
-    position: absolute;
-    margin-top: 450px;
-}
 
 #presentation1 {
     font-size: 30px;
@@ -71,15 +70,30 @@ body {
     font-family: Verdana;
 }
 
-#description {
-    font-size: 15px;
-    font-family: sans-serif;
-}
 
 .reseaux {
-    display: block;
-    border: 3px black ridge;
-    position: absolute;
-    margin-top: 500px;
-    margin-left: 400px;
+     display: block;
+     border: 3px black ridge;
+     position: absolute;
+     margin-top: 600px;
+     margin-left: 640px;
+ }
+
+h1 {
+    color: indigo;
+    font-family: "Georgia", "Arial Black";
+    font-size: 2em;
+    line-height: 20px;
+}
+
+h2 {
+    color: indigo;
+    font-family: "Georgia", "Arial Black";
+    font-size: 2em;
+    line-height: 20px;
+}
+
+#perso {
+    color: black;
+    text-decoration: underline;
 }
